@@ -1,2 +1,2 @@
-# first-Git-project
-this is my first github project
+# first git project
+color switcher
